@@ -1,0 +1,99 @@
+#!/bin/sh
+
+#bspwm config
+
+#Colorschemes for window borders
+#source ~/.config/bspwm/colors/colors-everforest.sh
+#source ~/.config/bspwm/colors/colors-nord.sh
+#source ~/.config/bspwm/colors/colors-gruvbox.sh
+#source ~/.config/bspwm/colors/colors-tokyonight.sh
+#source ~/.config/bspwm/colors/colors-dracula.sh
+source ~/.config/bspwm/colors/colors-sweet.sh
+#source ~/.config/bspwm/colors/colors-punk.sh
+
+# Workspaces (Workspaces from 1-0)
+bspc monitor HDMI-0 -d 1 2 3 4 5 6 7
+bspc monitor HDMI-1 -d 1 2 3 4 5 6 7
+bspc monitor eDP-1 -d 1 2 3 4 5 6 7 
+
+# BSPWM configuration
+#bspc config border_radius		8
+bspc config border_width		2
+bspc config window_gap			30
+bspc config split_ratio			0.55
+bspc config borderless_monocle		true
+bspc config gapless_monocle		true
+bspc config single_monocle		false
+bspc config focus_follows_pointer	true
+bspc config click_to_focus		true
+
+# Apps forced to run on specific workspaces 
+bspc rule -a firefox desktop=1 follow=on
+bspc rule -a Thunderbird desktop=1 follow=on
+bspc rule -a Alacritty desktop=2 follow=on
+bspc rule -a Thunar desktop=3 follow=on
+bspc rule -a libreoffice-startcenter desktop=4 follow=on
+bspc rule -a "Soffice:soffice" desktop=4 follow=on
+bspc rule -a Gimp desktop=5 follow=on
+bspc rule -a Blender desktop=5 follow=on
+#bspc rule -a Spotify desktop=6 follow=on #(Funktioniert noch nicht)
+bspc rule -a discord desktop=7 follow=on
+bspc rule -a Steam desktop=7 follow=on
+bspc rule -a Galculator state=floating
+
+# Cursor settings (no cross)
+xsetroot -cursor_name left_ptr &
+
+# Monitor settings
+if [[ $(xrandr -q | grep "HDMI-0 connected") ]]; then
+	xrandr --output HDMI-0 --primary --mode 3440x1440 --rate 100
+elif [[ $(xrandr -q | grep "HDMI-1 connected") ]]; then
+	xrandr --output eDP-1 --mode 2560x1600 --output HDMI-1 --primary --mode 3440x1440 --rate 100 --left-of eDP-1
+else
+	xrandr --output eDP-1 --mode 2560x1600 --primary --scale 0.8x0.8
+fi
+
+# Monitor blanking and screensaver off
+xset s off s noblank s noexpose s 0 0 -dpms &
+
+# Tap to Click (Touchpad)
+#xinput set-prop "04CA00B1:00 04CA:00B1 Touchpad" "libinput Tapping Enabled" 1
+
+# Autostart programs and daemons
+sxhkd &
+# starts the simple x hotkey daemon
+
+lxpolkit &
+# starts the polkit for password input
+
+$HOME/.config/polybar/scripts/launch.sh &
+# starts polybar
+
+nitrogen --restore &
+# starts the wallpaper program and restores the last used wallpaper
+
+picom &
+# starts the compositor
+
+dunst &
+# starts the notification service
+
+numlockx on &
+# sets the numlock to be activated
+
+#discord &
+# starts discord
+
+#dropbox &
+# starts dropbox
+
+#$HOME/.config/conky/start.sh
+# starts the conky desktop widget
+
+/usr/lib/kdeconnectd &
+# starts the kdeconnect daemon
+
+killall openrgb
+sleep 2
+openrgb --startminimized &
+# starts openrgb minimized in the tray

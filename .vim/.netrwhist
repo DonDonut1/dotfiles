@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/dani/Dokumente/Projekte/Colorschemes/Polybar'
+let g:netrw_dirhist_3='/home/dani/Dokumente/Projekte/Colorschemes'
+let g:netrw_dirhist_2='/usr/lib/sddm/sddm.conf.d'
+let g:netrw_dirhist_1='/usr/share/X11/xorg.conf.d'

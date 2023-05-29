@@ -1,0 +1,1006 @@
+echo abc
+print abc
+alacritty print abc
+alacritty -e print abc
+alacritty -e printf abc
+alacritty -e printf abc
+alacritty -e printf abc
+alacritty -e printf abc
+alacritty -e printf abc
+alacritty -e printf abc
+echo abc && sudo pacman -Syu
+alacritty -e echo abc && sudo pacman -Syu
+alacritty -e sudo pacman -Syu
+alacritty -e echo sudo pacman -Syu
+alacritty -e echo"Hello" sudo pacman -Syu
+alacritty -e echo "Hello" sudo pacman -Syu
+alacritty -e echo "Hello" sudo pacman -Syu
+alacritty -e echo "Hello", sudo pacman -Syu
+alacritty -e echo "Hello" & sudo pacman -Syu
+alacritty -e echo "Hello" && sudo pacman -Syu
+alacritty -e echo Hello && sudo pacman -Syu
+alacritty -e echo Hello && neofetch
+alacritty -e echo Hello & neofetch
+alacritty -e echo Hello  neofetch
+alacritty -e "echo Hello"  neofetch
+alacritty -e "echo "Hello"  neofetch
+alacritty -e echo Hello & neofetch
+alacritty -e echo Hello && neofetch
+alacritty -e echo Hello && neofetch
+alacritty
+man alacritty
+alacritty -e echo Hello
+alacritty -e print Hello
+alacritty -e printf Hello
+alacritty -e printf "Hello"
+alacritty -e print "Hello"
+alacritty -e "sudo pacman -Syu"
+alacritty -e sudo pacman -Syu
+alacritty -e echo pacman -Syu
+alacritty -e echo pacman -Syu &
+alacritty -e echo pacman -Syu &&
+alacritty -e echo "pacman -Syu"
+alacritty -e echo "test"
+alacritty echo test
+alacritty -echo test
+alacritty -- echo test
+alacritty --echo test
+alacritty --sudo pacman -Syu
+alacritty --command sudo pacman -Syu
+alacritty --command echo Hallo
+vim .config/polybar/modules/modules-sweet.ini
+cd .config/polybar/scripts/
+vim updates.rb
+cd
+polybarconfig
+clear
+exit
+cd .config/polybar/scripts/
+vim 
+vim updates.rb
+cd .config/polybar/scripts/
+cd ..
+cd modules
+vim modules-sweet.ini
+clear
+exit
+ip a
+killall openrgb
+gdisk /dev/nvme0n1
+sudo gdisk /dev/nvme0n1
+sudo pacman -Ss nitrogen
+paru nitrogen
+cd Downloads/Project\ Zomboid\ Server
+ls
+vim servertest.ini
+vim servertest_SandboxVars.lua
+sudo -E vim /boot/loader/loader.conf
+exit
+bspwmconfig
+sudo pacman -Syu
+paru -Syu
+paru -Syu
+clear
+exit
+xkill
+killall bottles
+htop
+killall openrgb
+sudo pacman -Suy
+paru -Syu
+paru -Syu
+clear
+exit
+killall openrgb
+killall openrgb
+openrgb
+openrgb -d
+openrgb
+paru -Syu
+clear
+neofetch
+exit
+killall 
+killall openrgb
+killall bottles
+htop
+paru akai
+sudo pacman -Ss akai
+paru akai
+killall openrgb
+bspwmconfig
+paru -Syu
+sudo pacman -Syu
+killall pacman
+sudo pacman -Syu
+sudo pacman -Sy
+reboot
+paru -Syu
+sudo pacman -Syu
+sudo pacman -Scc
+sudo pacman -Syyu
+htop
+sudo pacman -Syuv
+cd /var/lib/pacman/
+ls
+sudo rm db.lck
+cd
+sudo pacman -Syu
+paru -Syu
+reboot
+sudo ufw status
+sudo ufw stop
+sudo ufw disable
+sudo ufw status
+sudo ufw enable
+paru akai
+paru akai
+paru -R mpk-m2-editor
+clear
+exit
+sudo killall bottles
+zshconfig
+vim .config/polybar/modules/modules-sweet.ini
+clear
+paru -Syu
+clear
+exit
+sudo pacman -Syu
+paru -Syu
+clear
+exit
+paru -Syu
+sudo pacman -S neovim
+nvim .config/bspwm/bspwmrc
+zshconfig
+zshconfig
+zshconfig
+polybarconfgi
+polybarconfig
+clear
+exit
+vim
+nvim
+vim
+sudo pacman -Rms vim
+sudo pacman -RMs vim
+sudo pacman -R
+pacman -h
+man pacman
+sudo pacman -Rns vim
+vim
+vim
+vim
+vim
+vim
+vim
+clear
+mkdir -p ~/.config/nvim
+cd .config/nvim
+ls
+clear
+cd
+cd .coinfig/nvim
+cd .config/nvim
+vim init.lua
+vim
+nvim
+cd
+bspwmconfig
+polybarconfig
+cd .config/nvim
+lks
+ls
+vim init.lua
+vim init.lua:q
+\:q
+exit
+polybarconfig
+cd .config/nvim
+ls
+vim init.lua
+cd
+vim
+vim
+clear
+sudo pacman -S npm
+clear
+exit
+nvim
+cd .config/nvim
+ls
+cd plugin
+ls
+vim packer_compiled.lua
+cd ..
+vim init.lua
+vim
+cd
+bspwmconfig
+cd .config/nvim
+vim init.lua
+vim init.lua
+vim
+cd
+ls
+sudo pacman -S kitty
+exit
+help
+cd .config/kitty
+ls
+ls -la
+clear
+exit
+sudo pacman -Rns kitty
+clear
+cd .config
+ls
+cd kitty
+ls
+cd ..
+rm kitty
+rm -r kitty
+ls
+cd
+clear
+sudo pacman -Syu
+exit
+neofetch
+clock
+alacrittyconfig
+exit
+vim
+exit
+alacrittyconfig
+clear
+exit
+cmatrix
+neofetch
+vim .config/polybar/colors/colors-sweet.ini
+vim
+alacrittyconfig
+clear
+exit
+vim .config/nvim/init.lua
+clear
+ls
+clear
+exit
+sudo pacman -Ss keepassxc
+sudo pacman -S keepassxc
+clear
+exit
+sudo pacman -Syu
+clear
+exit
+alacrittyconfig
+exit
+alacrittyconfig
+polybarconfig
+vim .config/polybar/colors/colors-sweet.ini
+vim .config/polybar/colors/colors-sweet.ini
+vim
+alacrittyconfig
+cd .config/nvim/init.lua
+cd .config/nvim/
+ls
+cd plugin
+ls
+cd ..
+vim init.lua
+cd plugin
+ls
+vim packer_compiled.lua
+vim
+cd ..
+vim init.lua
+vim init.lua
+vim init.lua
+nvim
+vim init.lua
+vim
+vim init.lua
+vim init.lua
+ls
+cd plugin
+ls
+cd ..
+mv init.lua init1.lua
+nvim
+alacrittyconfig
+alacrittyconfig
+clear
+exit
+alacrittyconfig
+cd .config/nvim
+vim init2.lua
+ls
+vim init1.lua
+mv init1.lua init.lua
+vim
+exit
+bspwmconfig
+polybarconfig
+neofetch
+vim
+vim
+vim
+vim
+neofetch
+clock
+cmatrix
+zshconfig
+paru -Syu
+openrgb
+clear
+exit
+paru bottles
+paru -R bottles-git
+find bottles
+whereis bottles
+bottles
+exit
+sudo pacman -Ss bottles
+paru bottles
+sudo pacman -Ss wine
+wine
+sudo pacman -S winetricks
+killall winetricks
+killall wine
+clear
+sudo pacman -Ss wine
+exit
+killall winetricks
+sudo pacman -Rms wine
+sudo pacman -Rns wine
+sudo pacman -Rns winetricks
+sudo pacman -Rns wine
+wine
+winetricks
+sudo pacman -Ss wine
+exit
+paru wine
+paru wine-git
+paru -Rns wine-git
+whereis wine
+find wine
+wine
+paru bottles
+bottles
+paru -Rns bottles
+paru bottles
+eixt
+exit
+paru -Rns bottles
+paru -Rns bottles-git
+exit
+sudo pacman -S wine
+sudo pacman -Ss winetricks
+paru winetricks
+sudo pacman -S winetricks
+exit
+wine
+wine --help
+sudo pacman -S winetricks
+winetricks
+clear
+eixt
+killall wine
+killall winetricks
+exit
+vim .config/polybar/colors/colors-tokionight.ini
+vim .config/polybar/colors/colors-tokyonight.ini
+vim .config/polybar/modules/modules-tokyonight.ini
+vim .config/polybar/modules/modules-tokyonight.ini
+clear
+exit
+polybarconfig
+bspwmconfig
+vim .config/polybar/colors/colors-gruvbox.ini
+vim .config/polybar/modules/modules-gruvbox.ini
+sudo pacman -S figlet
+figlet "hello"
+figlet -3d "hello"
+figlet -f 3d "hello"
+figlet -f3d "hello"
+figlet -f3D "hello"
+figlet -f3Dfont "hello"
+showfigfonts
+vim .config/polybar/colors/colors-dracula.ini
+clear
+sxhkdconfig
+sxhkdconfig
+polybarconfig
+cd .config/nvim
+ls
+cd plugin
+ls
+vim packer_compiled.lua
+vim
+cd .config/nvim
+ls
+mv init1.lua init.lua
+nvim
+vim init.lua
+cd ..
+ls
+rm -r nvim
+vim
+cd
+zshconfig
+sudo pacman -Rns nvim
+sudo pacman -Rns neovim
+nvim
+sudo pacman -S vim
+vim
+vim
+bspwmconfig
+vim
+vim .config/polybar/colors/colors-dracula.ini
+cd .vim
+ls
+cd pack
+ls
+cd plugins
+ls
+cd start
+ls
+cd lightline
+ls
+vim colorscheme.md
+ls
+cd plugin
+ls
+vim lightline.vim
+cd .. 
+cd .
+cd ..
+cd ..
+cd ..
+cd
+ls
+vim .vimrc
+polybarconfig
+bspwmconfig
+git clone https://github.com/rototrash/tokyo-night-sddm.git ~/tokyo-night-sddm
+sudo mv ~/tokyo-night-sddm /usr/share/sddm/themes/
+sudo -E vim /etc/sddm.conf
+cd /etc/sddm
+cd /usr/share/sddm/themes/
+ls
+cd tokyo-night-sddm
+ls
+sudo -E vim theme.conf
+cd tokyo-night-sddm
+cd /usr/share/sddm/themes/tokyo-night-sddm
+ls
+sudo -E vim theme.conf
+ls
+cd Assets
+ls
+cd ..
+ls
+vim Main.qml
+ls -la
+sudo rm -r .git
+clear
+neofetch
+clear
+exit
+killall dunst
+notify-send "hi this is a test"
+killall dunst
+notify-send "hi this is a test"
+killall dunst
+notify-send "hi this is a test"
+killall dunst
+notify-send "hi this is a test"#
+vim .config/polybar/colors/colors-tokyonight.ini
+killall dunst
+notify-send "hi this is a test"#
+notify-send "hi this is a test"
+polybarconfig
+exit
+notify-send "hi this is a test"
+killall dunst
+notify-send "hi this is a test"
+dunstconfig
+picomconfig
+exit
+paru -Syu
+paru -Syu
+openrgb
+killall openrgb
+paru -Rns openrgb-git
+openrgb
+clear
+sudo pacman -Ss openrgb
+paru openrgb
+clear
+neofetch
+clear
+exit
+sudo pacman -Syu
+paru -Syu
+sudo pacman -Syu
+picomconfig
+polybarconfig
+exit
+sudo pacman -Syu
+neofetch
+clcok
+clocik
+clear
+clock
+bspwmconfig
+sudo pacman -Syu
+paru -Syu
+clear
+exit
+sudo pacman -Syu
+clear
+eixt
+exit
+sudo pacman -Ss unknownhorizons
+sudo pacman -Ss unknown-horizons
+paru unkown horizons
+cd Downloads
+ls
+cd
+paru unknown-horizons
+paru unknown-horizons
+sudo paru -R unknown-horizons
+paru unknown-horizons
+clear
+exit
+paru unknown-horizons
+paru -h
+paru unknown-horizons --skipchecksums
+paru unknown-horizons
+paru unknown-horizons
+paru unknown-horizons --skipreview
+paru -h
+paru unknown-horizons
+paru unknown-horizons-git
+paru fifengine
+paru fifeengine
+paru fife
+cd Downloads/unknown-horizons-2019.1
+ls
+setup.py
+python setup.py
+unknown-horizons
+./setup.py
+./setup.py build_i18n
+./run_uh.py
+./run_uh.py
+./run_uh.py
+cd
+ls
+cd Downloads
+ls
+clear
+exit
+sudo pacman -Syu
+exit
+sudo pacman -Syu
+cd /usr/share/sddm/themes/tokyo-night-sddm
+ls
+sudo -E vim theme.conf
+cd /usr/share/sddm/themes/tokyo-night-sddm
+sudo -E vim theme.conf
+cd /usr/share/sddm/themes/tokyo-night-sddm
+sudo -E vim theme.conf
+cd /usr/share/sddm/themes/tokyo-night-sddm
+sudo -E vim theme.conf
+cd
+ls
+ls -la
+clear
+exit
+polybarconfig
+picomconfig
+clear
+exit
+paru openrgb
+paru -Rns openrgb-git
+clear
+exitg
+exit
+ls
+sudo pacman -S udisks2
+sudo pacman -S base-devel git polybar thunderbird rofi
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+cd ..
+ls
+rm -rf paru
+sudo pacman -S ruby
+sudo pacman -S checkupdates
+paru checkupdates
+paru checkupdates
+sudo pacman -Ss checkupdates
+sudo pacman -Ss pacman-contrib
+sudo pacman -S pacman-contrib
+sudo pacman -Ss font-awesome
+sudo pacman -S ttf-font-awesome
+paru nerd font mononoki
+paru jet brains mono
+paru jet brains mono
+paru jet brains mono
+paru -R ttf-jetbrains-mono
+sudo pacman -S lxpolkit
+sudo pacman -S geany
+cd Dokumente/Projekte/Arch\ Linux
+ls
+bash autoinstall.sh
+sudo pacman -S pavucontrol
+sudo pacman -R thunar
+sudo pacman -S zip
+sudo pacman -S 7zip
+sudo pacman -Ss zip
+sudo pacman -S unzip
+sudo pacman -S xarchiver
+sudo pacman -Ss zip
+sudo pacman -Syu
+sudo -E vim /etc/pacman.conf
+clear
+neofetch
+exit
+polybarconfig
+polybarconfig
+paru font awesome
+paru font awesome
+paru font awesome
+patch fonts
+paru jet-brains
+paru jet brains
+paru nerd fonts jet brains
+paru Jet brains mono
+exit
+vim .config/polybar/modules/modules-tokyonight.ini
+paru font awesome
+paru jet brains mono
+clear
+exit
+sudo pacman -Ss nerd font
+sudo pacman -Ss mononoki nerd font
+sudo pacman -S ttf-mononoki-nerd
+paru eww
+paru eww
+paru eww
+eww -h
+cd .config
+ls
+cd eww
+ls
+ls -la
+cd
+killall polybar
+eww -h
+eww open bar
+eww daemon
+eww reload
+sudo pacman -Ss font feather
+sudo pacman -Ss feather
+paru font feather
+killall polybar
+sudo pacman -Ss Daddytime
+sudo pacman -S ttf-daddytime-mono-nerd
+killall polybar
+eww -h
+eww close-all
+killall eww
+cd .config/zsh
+ls
+cd powerlevel10k
+ls
+vim README.md
+ls
+cd config
+ls
+cd ..
+ls
+sudo pacman -Ss meslo-nerd-font
+sudo pacman -Ss meslo
+paru meslo-nerd-font
+p10k configure
+clear
+neofetch
+clear
+lsd
+cd .config
+p10k configure
+sudo pacman -Syu
+sudo pacman -Syu
+sudo pacman -Syu
+cd .config
+ls
+cd zsh/powerlevel10k
+ls
+cd gitstatus
+ls
+cd ..
+rm -rf gitstatus
+bspwmconfig
+polybarconfig
+neofetch
+picomconfig
+polybarconfig
+clear
+exit
+dunstify hello
+exit
+vim .config/polybar/modules/modules-sweet.ini
+exit
+paru openrgb
+vim .config/polybar/modules/modules-sweet.ini
+sudo pacman -Syu
+sudo pacman -Syu
+clear
+paru spotify
+sudo modprobe i2c-dev
+sudo modprobe i2c-piix4
+sudo udevadm control --reload-rules && sudo udevadm trigger
+killall openrgb
+openrgb
+sudo openrgb
+openrgb
+sudo pacman -S sddm
+systemctl -h
+systemctl disable gddm.service
+systemctl disable lightdm
+systemctl enable sddm
+sudo pacman -Rns lightdm
+sudo pacman -Rns lightdm-gtk-greeter
+sudo pacman -Rns lightdm
+reboot
+cd Downloads/Sweet/
+ls
+vim theme.conf
+vim Main.qml
+cd
+cd /usr/share/sddm/themes/
+ls
+cd ..
+ls
+ls -la
+cd ..
+ls
+cd
+cd /etc/
+ls
+vim sddm.conf
+vim sddm.conf
+sudo -E vim sddm.conf
+cd Downloads
+ls
+sudo cp -r Sweet /usr/share/sddm/themes
+cd /usr/share/sddm/themes
+ls
+ls
+ls
+cd..
+cd
+cd /etc/
+vim sddm.conf
+sudo -E vim sddm.conf
+cd Downloads/themes
+ls
+sudo cp -r tokyo-night-sddm /usr/share/sddm/themes
+sudo cp -r sddm-astronaut-theme /usr/share/sddm/themes
+sudo pacman -S kdeconnect
+sudo pacman -S kdeconnect
+cd /etc
+sudo -E vim sddm.conf
+cd /usr/share/sddm/themes
+ls
+cd Sweet
+ls
+cd components
+ls
+cd ..
+cd
+sudo pacman -Ss Qt graphical effects
+git clone https://github.com/RadRussianRus/sddm-slice.git
+cd
+ls
+cp -r sddm-slice /usr/share/sddm/themes/sddm-slice
+sudo cp -r sddm-slice /usr/share/sddm/themes/sddm-slice
+cd /etc/
+sudo -E vim sddm.conf
+sudo pacman -Ss libopenal
+bspwmconfgi
+bspwmconfig
+killall openrgb
+killall openrgb
+killall openrgb
+killall openrgb
+killall openrgb
+killall openrgb
+cler
+clear
+exit
+polybarconfig
+killall polybar
+killall openrgb
+polybarconfig
+clear
+neofetch
+cd /usr/share/sddm/themes
+ls
+cd sddm-slice
+ls
+sudo -E vim theme.conf
+sudo -E vim Main.qml
+clear
+ls
+screenshot.png
+clear
+exit
+bspwmconfig
+sxhkdconfig
+clear
+exit
+sudo pacman -Syu
+exit
+sudo pacman -Syu
+exit
+sudo pacman -Syu
+cd .config/polybar/scripts
+ls
+vim nm.sh
+vim nm.sh
+xprop
+cd ..
+cd 
+cd Dokumente/Projekte/Arch\ Linux
+ls
+vim autoinstall.sh
+sudo pacman -Ss calc
+sudo pacman -S gnome-calculator
+sudo pacman -Rns gnome-calculator
+sudo pacman -Ss xfce
+sudo pacman -Ss calculator
+sudo pacman -S galculator
+bspwmconfig
+sxhkdconfig
+exit
+sudo pacman -Syu
+paru -Syu
+whereis eww
+cd .config/eww
+ls
+ls -la
+clear
+cd
+cd .config
+ls
+ls -la
+ls -a
+vim pavucontrol.ini
+cd spicetify
+ls
+cd Themes
+ls
+cd
+exit
+killall openrgb
+killall openrgb
+openrgb
+neofetch
+sudo pacman -Syu
+paru -Syu
+clear
+exit
+bspwmconfig
+paru clock
+tty-qlock
+tty-qlock -h
+paru -Rns tty-qlock
+paru clock
+clock
+neofetch
+bspwmconfig
+paru spicetify
+spicetify upgrade
+sudo chmod a+wr /opt/spotify
+sudo chmod a+wr /opt/spotify/Apps
+spicetify upgrade
+killall spicetify
+spicetify upgrade
+sudo chmod a+wr /opt/spotify/Apps -R
+sudo chmod a+wr /opt/spotify
+spicetify upgrade
+sudo spicetify upgrade
+sudo spicetify upgrade
+spicetify upgrade
+spicetify -h
+spicetify config current_theme Dreary
+spicetify config color_scheme deeper
+spicetify upgrade
+spicetify backup apply enable-devtools
+spicetify backup apply enable-devtools
+spicetify config current_theme Nightlight
+spicetify config color_scheme Nightlight
+spicetify apply
+sxhkdconfig
+spicetify upgrde
+spicetify upgrade
+spicetify backup apply
+spicetify upgrade
+cd .config/spicetify
+ls
+cd Themes
+ls
+cd Dreary
+ls
+cd ..
+ls
+git clone --depth=1 https://github.com/spicetify/spicetify-themes.git 
+ls
+cd
+git clone --depth=1 https://github.com/spicetify/spicetify-themes.git 
+cd spicetify-themes
+cp -r * ~/.config/spicetify/Themes
+cd ..
+ls
+rm -rf spicetify-themes
+cd .config/spicetify
+ls
+cd Themes
+ls
+cd Nightlight
+ls
+cd
+bspwmconfig
+polybarconfig
+clear
+cd Bilder
+ls
+cleart
+colear
+clear
+cd
+sudo pacman -S hollywood
+sudo pacman -S hollywood
+paru hollywood
+hollywood
+paru -Rns hollywood
+clear
+exit
+killall openrgb
+bspwmconfgi
+bspwmconfig
+bspwmconfig
+neofetch
+sudo pacman -syu
+sudo pacman -Syu
+sudo ufw limit 22/tcp\
+sudo ufw allow 80/tcp\
+sudo ufw allow 443/tcp\
+sudo ufw default deny incoming\
+sudo ufw default allow outgoing\
+sudo ufw enable\
+
+sudo ufw status
+clear
+sudo pacman -Syu
+clear
+exit
+killall openrgb
+openrgb
+sudo pacman -Syu
+bspwmconfig
+openrgb
+paru -Syu
+clear
+openrgb
+sudo pacman -Syu
+killall openrgb
+openrgb
+paru popsicle
+clear
+neofetch
+exit
